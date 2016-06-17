@@ -41,8 +41,7 @@
                             <version>2.1.3-SNAPSHOT</version>
                             <packaging>pom</packaging>
                             <file>libs/cobertura-runtime-2.1.3-SNAPSHOT.pom</file>
-                            <createChecksum>true</createChecksum>
-                            <pomFile>true</pomFile>
+                            <pomFile>libs/cobertura-runtime-2.1.3-SNAPSHOT.pom</pomFile>
                         </configuration>
                 </execution>
                 <execution>
