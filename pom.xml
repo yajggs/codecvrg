@@ -62,7 +62,7 @@
                 </execution>
                 <execution>
                         <id>org.codehaus.mojo:cobertura-maven-plugin</id>
-                        <phase>test</phase>
+                        <phase>verify</phase>
                         <goals>
                             <goal>install-file</goal>
                         </goals>
